@@ -1,0 +1,12 @@
+[
+  {
+    "nom": "Etudiant",
+    "mot_de_passe": "123",
+    "pin": "1234"
+  },
+  {
+    "nom": "Admin",
+    "mot_de_passe": "admin2026",
+    "pin": "0000"
+  }
+]

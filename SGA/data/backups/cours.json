@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "intitule": "Circuits logiques",
+    "volume_horaire": 4,
+    "type": "tronc commun",
+    "promotion": "L1"
+  },
+  {
+    "id": 2,
+    "intitule": "Bases de donnees",
+    "volume_horaire": 4,
+    "type": "tronc commun",
+    "promotion": "L2"
+  },
+  {
+    "id": 3,
+    "intitule": "Reseaux",
+    "volume_horaire": 4,
+    "type": "tronc commun",
+    "promotion": "L3"
+  },
+  {
+    "id": 4,
+    "intitule": "Systemes d'exploitation",
+    "volume_horaire": 4,
+    "type": "tronc commun",
+    "promotion": "L4"
+  },
+  {
+    "id": 5,
+    "intitule": "Cryptographie appliquee",
+    "volume_horaire": 4,
+    "type": "option",
+    "promotion": "L3",
+    "option": "SEC-L3"
+  },
+  {
+    "id": 6,
+    "intitule": "Modelisation logicielle",
+    "volume_horaire": 4,
+    "type": "option",
+    "promotion": "L3",
+    "option": "GL-L3"
+  },
+  {
+    "id": 7,
+    "intitule": "Robotique mobile",
+    "volume_horaire": 4,
+    "type": "option",
+    "promotion": "L4",
+    "option": "ROB-L4"
+  },
+  {
+    "id": 8,
+    "intitule": "Analyse de donnees",
+    "volume_horaire": 4,
+    "type": "option",
+    "promotion": "L4",
+    "option": "DATA-L4"
+  }
+]

@@ -1,0 +1,9 @@
+id;intitule;volume_horaire;type;promotion;option
+1;"Circuits logiques";4;"tronc commun";L1;
+2;"Bases de donnees";4;"tronc commun";L2;
+3;Reseaux;4;"tronc commun";L3;
+4;"Systemes d'exploitation";4;"tronc commun";L4;
+5;"Cryptographie appliquee";4;option;L3;SEC-L3
+6;"Modelisation logicielle";4;option;L3;GL-L3
+7;"Robotique mobile";4;option;L4;ROB-L4
+8;"Analyse de donnees";4;option;L4;DATA-L4

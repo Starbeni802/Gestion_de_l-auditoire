@@ -1,0 +1,74 @@
+[
+    {
+        "jour": "Lundi",
+        "debut": "08:00",
+        "fin": "12:00",
+        "salle": "AUD-L1",
+        "code_cours": "1",
+        "cours": "Circuits logiques",
+        "groupe": "PROMO:L1"
+    },
+    {
+        "jour": "Lundi",
+        "debut": "08:00",
+        "fin": "12:00",
+        "salle": "AUD-L2",
+        "code_cours": "2",
+        "cours": "Bases de donnees",
+        "groupe": "PROMO:L2"
+    },
+    {
+        "jour": "Lundi",
+        "debut": "08:00",
+        "fin": "12:00",
+        "salle": "AUD-L3",
+        "code_cours": "3",
+        "cours": "Reseaux",
+        "groupe": "PROMO:L3"
+    },
+    {
+        "jour": "Lundi",
+        "debut": "08:00",
+        "fin": "12:00",
+        "salle": "AUD-L4",
+        "code_cours": "4",
+        "cours": "Systemes d'exploitation",
+        "groupe": "PROMO:L4"
+    },
+    {
+        "jour": "Lundi",
+        "debut": "08:00",
+        "fin": "12:00",
+        "salle": "SALLE-MACH",
+        "code_cours": "5",
+        "cours": "Cryptographie appliquee",
+        "groupe": "OPTION:SEC-L3"
+    },
+    {
+        "jour": "Lundi",
+        "debut": "08:00",
+        "fin": "12:00",
+        "salle": "SALLE-MGT",
+        "code_cours": "6",
+        "cours": "Modelisation logicielle",
+        "groupe": "OPTION:GL-L3"
+    },
+    {
+        "jour": "Lundi",
+        "debut": "13:00",
+        "fin": "17:00",
+        "salle": "SALLE-MACH",
+        "code_cours": "7",
+        "cours": "Robotique mobile",
+        "groupe": "OPTION:ROB-L4"
+    },
+    {
+        "jour": "Lundi",
+        "debut": "13:00",
+        "fin": "17:00",
+        "salle": "SALLE-MGT",
+        "code_cours": "8",
+        "cours": "Analyse de donnees",
+        "groupe": "OPTION:DATA-L4"
+    }
+]

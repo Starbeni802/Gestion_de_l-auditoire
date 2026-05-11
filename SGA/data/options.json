@@ -1,0 +1,32 @@
+[
+  {
+    "id": "SEC-L3",
+    "libelle": "Securite Informatique",
+    "promotion": "L3",
+    "effectif": 42
+  },
+  {
+    "id": "GL-L3",
+    "libelle": "Ingenierie Logicielle",
+    "promotion": "L3",
+    "effectif": 48
+  },
+  {
+    "id": "ROB-L4",
+    "libelle": "Robotique",
+    "promotion": "L4",
+    "effectif": 30
+  },
+  {
+    "id": "DATA-L4",
+    "libelle": "Data Sciences",
+    "promotion": "L4",
+    "effectif": 35
+  },
+  {
+    "id": "EMB-L4",
+    "libelle": "Systemes Embarques",
+    "promotion": "L4",
+    "effectif": 25
+  }
+]

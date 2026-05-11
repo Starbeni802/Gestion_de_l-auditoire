@@ -1,0 +1,7 @@
+id;designation;capacite
+AUD-L1;"Auditoire principal - Licence 1";220
+AUD-L2;"Auditoire principal - Licence 2";180
+AUD-L3;"Auditoire principal - Licence 3";140
+AUD-L4;"Auditoire principal - Licence 4";110
+SALLE-MACH;"Salle de machines";60
+SALLE-MGT;"Salle de management & marketing";75

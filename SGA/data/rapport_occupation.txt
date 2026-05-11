@@ -1,0 +1,7 @@
+salle;creneaux_occupes;creneaux_libres;taux_occupation
+AUD-L1;1;9;10%
+AUD-L2;1;9;10%
+AUD-L3;1;9;10%
+AUD-L4;1;9;10%
+SALLE-MACH;2;8;20%
+SALLE-MGT;2;8;20%
